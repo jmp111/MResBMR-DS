@@ -11,3 +11,14 @@ By the end of this session (Classification II), you will be better able to:
 - Distinguish between different penalised regression methods
 - Differentiate between different ensemble methods
 - Use these algorithms to find important variables in your data
+
+Before Classification II, ensure you have installed sklearn and xgboost:
+```
+conda install scikit-learn
+conda install conda-forge xgboost
+```
+or
+```
+pip install scikit-learn
+pip install xgboost
+```
