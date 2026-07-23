@@ -11,7 +11,7 @@ By the end of this session (Biomedical NLP), you will be better able to:
 - Apply topic modelling using Latent Dirichlet Allocation
 - Visualise summaries of free text data using Wordclouds
 
-Before Biomedical NLP, ensure you have installed the following packages (others are needed but assumed to already be installed):
+Before Biomedical NLP, ensure you have installed the following packages (others are needed but assumed to already be installed - best to do this in a venv):
 ```
 pip install gensim nltk tqdm wordcloud
 pip install -U spacy
